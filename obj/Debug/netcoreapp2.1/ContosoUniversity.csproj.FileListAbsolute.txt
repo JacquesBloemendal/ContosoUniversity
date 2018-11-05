@@ -42,7 +42,6 @@ C:\local-src\playground\ContosoUniversity\bin\Debug\netcoreapp2.1\ContosoUnivers
 C:\local-src\playground\ContosoUniversity\bin\Debug\netcoreapp2.1\ContosoUniversity.pdb
 C:\local-src\playground\ContosoUniversity\bin\Debug\netcoreapp2.1\ContosoUniversity.Views.dll
 C:\local-src\playground\ContosoUniversity\bin\Debug\netcoreapp2.1\ContosoUniversity.Views.pdb
-C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.csprojAssemblyReference.cache
 C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.CoreCompileInputs.cache
 C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorAssemblyInfo.cache
 C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.RazorAssemblyInfo.cs
@@ -72,3 +71,4 @@ C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUnivers
 C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.dll
 C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.pdb
 C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.CopyComplete
+C:\local-src\playground\ContosoUniversity\obj\Debug\netcoreapp2.1\ContosoUniversity.csprojAssemblyReference.cache
